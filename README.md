@@ -5,7 +5,7 @@ The first part of the code creates four users (PROF, ITAM, SAM, OTHMAN) and gran
 
 The subsequent tasks are as follows:
 
-Display the list of users and their privileges on the database.
+### Display the list of users and their privileges on the database.
 
 Gather statistics on the ITAM schema and display the tables in the schema ordered by the number of rows.
 
